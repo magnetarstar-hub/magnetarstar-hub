@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on To-do List Website & Mobile App **TaskMinds**
 
-- 🌱 I’m currently learning **Framework (next.js & core.js), Deep Learning.**
+- 🌱 I’m currently learning **Frameworks (next.js & core.js), Deep Learning.**
 
 - 🤝 I’m looking for help with **One Way Dream**
 
