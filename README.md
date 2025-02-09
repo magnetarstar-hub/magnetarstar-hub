@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnetarstar-hub" alt="magnetarstar-hub" /></a> </p>
 
-- 🔭 I’m currently working on To-do List Website & Mobile App **TaskMinds**
+- 🔭 I’m currently working on 2D Game called **One Way Dream : Story Mode**
 
-- 🌱 I’m currently learning **Frameworks (next.js & core.js), Deep Learning.**
-
-- 🤝 I’m looking for help with **One Way Dream**
+- 🌱 I’m currently learning **Game Development**
 
 - 💬 Ask me about **Unity & C#**
 
