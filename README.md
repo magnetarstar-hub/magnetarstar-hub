@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magnetarstar-hub" alt="magnetarstar-hub" /></a> </p>
 
-- 🔭 I’m currently working on 2D Game called **One Way Dream : Story Mode**
-
-- 🌱 I’m currently learning **Game Development**
-
-- 💬 Ask me about **Unity & C#**
-
 - 📫 Contact: **sami.bacha@univ-bouira.dz**
 
 ![My Skills](https://skillicons.dev/icons?i=c,cs,java,kotlin,js,py,html,css,dotnet&theme=dark)
