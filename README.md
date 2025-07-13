@@ -15,7 +15,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python,java,react,html,css,kotlin,nodejs,dotnet,git,github,vscode,docker,linux,windows,wordpress,unity,discord,latex&perline=7" alt="Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
 </div>
 
 ---
