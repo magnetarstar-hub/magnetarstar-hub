@@ -14,7 +14,7 @@
 ## 🚀 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,java,react,html,css,kotlin,nodejs,dotnet,git,github,vscode,docker,linux,windows,wordpress,unity,discord,latex&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cs,js,python,java,react,html,css,kotlin,nodejs,dotnet,git,github,vscode,docker,arch,windows,wordpress,unity,threejs,latex&perline=7" alt="Tech Stack" />
 </div>
 
 ---
